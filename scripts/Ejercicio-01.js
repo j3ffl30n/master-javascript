@@ -21,7 +21,7 @@ switch(edad){
 	case 2: 
 		imprimir = "Elegiste la opcion 2";
 	break;
-	case 1: 
+	case 3: 
 		imprimir = "Elegiste la opcion 3";
 	break;
 	default: 
